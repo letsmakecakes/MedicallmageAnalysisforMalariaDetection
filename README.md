@@ -20,7 +20,7 @@ This repository contains a Jupyter Notebook file for a medical image analysis pr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/letsmakecakes/MedicallmageAnalysisforMalariaDetection.git
 ```
 
 2. Navigate to the project directory:
